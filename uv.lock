@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = "==3.13.*"
 
 [[package]]
@@ -25,7 +25,7 @@ wheels = [
 ]
 
 [[package]]
-name = "caldata-analytics-accelerator-training"
+name = "caldata-mdsa-training"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

@@ -11,7 +11,7 @@ This guide lists all the content and resources to learn Power BI over the next 1
 
 ### Week 2: Dashboard design
 
-1. [Dashboard Design with the User in Mind](https://www.youtube.com/watch?v=lhdm67yceIE) (Tableau Conference - Ridhima Gupta | 45-min): Design thinking is an iterative, human-centered approach to solving problems. There are many frameworks of Design Thinking. These frameworks are often shown as linear processes, but in practice, it is an iterative process and you will often repeat the steps. In this talk, Ridhima Gupta introduces a design thinking framework for building effective dashboards. She demonstrates how to apply user experience (UX) design practices to better understand your audience’s needs, quickly generate ideas, and get early feedback during the dashboard design process.  
+1. [Dashboard Design with the User in Mind](https://www.youtube.com/watch?v=lhdm67yceIE) (Tableau Conference - Ridhima Gupta | 45-min): Design thinking is an iterative, human-centered approach to solving problems. There are many frameworks of Design Thinking. These frameworks are often shown as linear processes, but in practice, it is an iterative process and you will often repeat the steps. In this talk, Ridhima Gupta introduces a design thinking framework for building effective dashboards. She demonstrates how to apply user experience (UX) design practices to better understand your audience’s needs, quickly generate ideas, and get early feedback during the dashboard design process.
 Approach dashboards development with a design thinking mindset. Make the process your own—adapting it to fit your style, your work, and your users.
 
 2. [Discovery phase](https://docs.data.ca.gov/analytics-accelerator/appendix/discovery-phase): Use this worksheet as a guide to define your project goals, users, and reporting needs before development begins.
@@ -19,23 +19,23 @@ Approach dashboards development with a design thinking mindset. Make the process
 <details>
 <summary>Resources</summary>
 
-[Human-centered design](https://hub.innovation.ca.gov/human-centered-design/course/) (CalAcademy course | ~2 hrs): Learn the basics of human-centered design and how it can help government define problems and deliver better services.  
+[Human-centered design](https://hub.innovation.ca.gov/human-centered-design/course/) (CalAcademy course | ~2 hrs): Learn the basics of human-centered design and how it can help government define problems and deliver better services.
 </details>
 
 ---
 
 ### Week 3: Project work time
 
-Begin working on your department Power BI report. Focus on the following steps:  
-1. import relevant datasets into Power BI Desktop  
-2. clean and transform your data in Power Query  
+Begin working on your department Power BI report. Focus on the following steps:
+1. import relevant datasets into Power BI Desktop
+2. clean and transform your data in Power Query
 3. structure your data for analysis
 
 ---
 
 ### Week 4: Data modeling
 
-1. [Data Modeling overview](https://docs.data.ca.gov/data-modeling/uEyO3M0RCuRMT1wHPxbk): Learn the basics of dimensional modeling to organize your data in a way that supports clear, scalable reporting. 
+1. [Data Modeling overview](https://docs.data.ca.gov/data-modeling/uEyO3M0RCuRMT1wHPxbk): Learn the basics of dimensional modeling to organize your data in a way that supports clear, scalable reporting.
 
 <details>
 <summary>Resources</summary>
@@ -88,7 +88,7 @@ Continue working on your project. Create measures, as needed. Refine and finaliz
 
 1. [Power BI Design best practices](https://docs.data.ca.gov/analytics-accelerator/appendix/power-bi-design-best-practices): Best practices for creating clear, accessible, and user-centered Power BI reports.
 
-2. **Navigation and accessibility tools** (video tutorials)  
+2. **Navigation and accessibility tools** (video tutorials)
 Enhance usability and user experience with the following features:
 
     - Sort and filter data
