@@ -94,7 +94,7 @@ Continue working on your project. Create measures, as needed. Refine and finaliz
 
 1. [Power BI Design best practices](https://docs.data.ca.gov/analytics-accelerator/appendix/power-bi-design-best-practices): Best practices for creating clear, accessible, and user-centered Power BI reports.
 
-2. **Navigation and accessibility tools** (video tutorials)  
+2. **Navigation and accessibility tools** (video tutorials)
 Enhance usability and user experience with the following features:
 
     - Sort and filter data
