@@ -19,7 +19,7 @@ Approach dashboards development with a design thinking mindset. Make the process
 <details>
 <summary>Resources</summary>
 
-[Human-centered design](https://hub.innovation.ca.gov/human-centered-design/course/) (CalAcademy course | ~2 hrs): Learn the basics of human-centered design and how it can help government define problems and deliver better services.
+<a href="https://hub.innovation.ca.gov/human-centered-design/course/"> Human-centered design </a> (CalAcademy course | ~2 hrs): Learn the basics of human-centered design and how it can help government define problems and deliver better services.
 </details>
 
 ---
@@ -27,6 +27,7 @@ Approach dashboards development with a design thinking mindset. Make the process
 ### Week 3: Project work time
 
 Begin working on your department Power BI report. Focus on the following steps:
+
 1. import relevant datasets into Power BI Desktop
 2. clean and transform your data in Power Query
 3. structure your data for analysis
@@ -40,7 +41,7 @@ Begin working on your department Power BI report. Focus on the following steps:
 <details>
 <summary>Resources</summary>
 
-[Introduction to Data Modeling for Power BI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/): (SQLBI course | ~2 hrs)
+<a href="https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/"> Introduction to Data Modeling for Power BI </a> (SQLBI course | ~2 hrs): An introductory video course about data modeling for analytical systems and reporting. The course introduces core dimensional modeling concepts through practical examples and demos. A proper model simplifies code and improves performance.
 </details>
 
 ---
@@ -58,22 +59,27 @@ Continue working on your project. Focus on developing your data model.
 <details>
 <summary>Resources</summary>
 
-- [DAX cheat sheet](https://www.datacamp.com/cheat-sheet/dax-cheat-sheet) (Data Camp)
-- [DAX Function Reference](https://learn.microsoft.com/en-us/dax/dax-function-reference) (Microsoft)
-- [Introduction DAX](https://www.sqlbi.com/p/introducing-dax-video-course/) (SQLBI course | ~3 hrs)
-- [DAX exercises](https://www.wiseowl.co.uk/power-bi/exercises/dax/) (wiseowl.co.uk): Wise Owl provides a range of hands-on exercises to practice writing DAX code. You can work through the exercises, focus on specific functions, or choose difficulty levels that match your experience. Topics include:
-    - [Basic measures](https://www.wiseowl.co.uk/power-bi/exercises/dax/basic-measures/)
-    - [The CALCULATE function](https://www.wiseowl.co.uk/power-bi/exercises/dax/filtering/)
-    - [The FILTER function](https://www.wiseowl.co.uk/power-bi/exercises/dax/filter/)
-    - [The VALUES function](https://www.wiseowl.co.uk/power-bi/exercises/dax/values-function/)
-    - [Understanding EARLIER](https://www.wiseowl.co.uk/power-bi/exercises/dax/understanding-earlier/)
-    - [Variables](https://www.wiseowl.co.uk/power-bi/exercises/dax/variables/)
-    - [Calendars and dates](https://www.wiseowl.co.uk/power-bi/exercises/dax/calendars-and-dates/)
-    - [Advanced date functions](https://www.wiseowl.co.uk/power-bi/exercises/dax/advanced-date-functions/)
-    - [DAX queries](https://www.wiseowl.co.uk/power-bi/exercises/dax/dax-queries/)
-    ```
-    Each exercise includes a solution. Another approach is to download the solution and work through it step-by-step, reengineering the process as you go.
-    ```
+<ul>
+    <li><a href="https://www.datacamp.com/cheat-sheet/dax-cheat-sheet">DAX cheat sheet</a> (Data Camp)</li>
+    <li><a href="https://learn.microsoft.com/en-us/dax/dax-function-reference">DAX Function Reference</a> (Microsoft)</li>
+    <li><a href="https://www.sqlbi.com/p/introducing-dax-video-course/">Introducing DAX</a> (SQLBI course | ~3 hrs)</li>
+    <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/">DAX exercises</a> (Wise Owl Training): Wise Owl provides a range of hands-on exercises to practice writing DAX code. You can work through the exercises, focus on specific functions, or choose difficulty levels that match your experience. Topics include:
+        <ul style="list-style-type: circle;">
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/basic-measures/">Basic measures</a></li>
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/filtering/">The CALCULATE function</a></li>
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/filter/">The FILTER function</a></li>
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/values-function/">The VALUES function</a></li>
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/understanding-earlier/">Understanding EARLIER</a></li>
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/variables/">Variables</a></li>
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/calendars-and-dates/">Calendars and dates</a></li>
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/advanced-date-functions/">Advanced date functions</a></li>
+            <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/dax-queries/">DAX queries</a></li>
+            ```
+            Each exercise includes a solution. Another approach is to download the solution and work through it step-by-step, reengineering the process as you go.
+            ```
+        </ul>
+    </li>
+</ul>
 </details>
 
 ---
@@ -111,9 +117,11 @@ Enhance usability and user experience with the following features:
 <details>
 <summary>Resources</summary>
 
-- [Data Analysis and Visualization with Power BI Module 1: Creating Reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1) (Microsoft course): Explore the different types of visualizations available in Power BI.
-- [Get started with ArcGIS for Power BI](https://doc.arcgis.com/en/microsoft-365/latest/power-bi/get-started-with-arcgis-for-power-bi.htm) (Esri): Use the ArcGIS data visualization in Power BI to bring mapping capabilities to your reports and dashboards.
-- [Forecast data in Power BI](https://www.sqlservercentral.com/articles/how-to-forecast-data-in-power-bi#:~:text=To%20enable%20the%20forecast%20option,not%20see%20the%20forecast%20option.) (SQL Server Central): Use the forecast feature in a line chart.
+<ul>
+    <li><a href="[Data Analysis and Visualization with Power BI Module 1: Creating Reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1">Data Analysis and Visualization with Power BI Module 1: Creating Reports</a> (Microsoft course): Explore the different types of visualizations available in Power BI.</li>
+    <li><a href="https://doc.arcgis.com/en/microsoft-365/latest/power-bi/get-started-with-arcgis-for-power-bi.htm">Get started with ArcGIS for Power BI</a> (Esri): Use the ArcGIS data visualization in Power BI to bring mapping capabilities to your reports and dashboards.</li>
+    <li><a href="https://www.sqlservercentral.com/articles/how-to-forecast-data-in-power-bi#:~:text=To%20enable%20the%20forecast%20option,not%20see%20the%20forecast%20option.">Forecast data in Power BI</a> (SQL Server Central): Use the forecast feature in a line chart.</li>
+</ul>
 </details>
 
 ---
@@ -140,4 +148,4 @@ Continue working on your Power BI project.
 
 ### Week 12: Project wrap-up
 
-Deliver the first iteration of your department report ready for user feedback.
+Finalize and share the first draft of your department report for user feedback.
