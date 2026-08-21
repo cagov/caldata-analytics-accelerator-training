@@ -44,6 +44,7 @@ markdown_extensions:
 nav:
   - Welcome: index.md
   - Learning path: learning-path.md
+  - Data sources: data-sources.md
   # - Data transformation:
   #     - dbt:
   #         - Part I - Foundations and staging models: data-transformation/dbt/pt-i-foundations-and-staging-models.md
