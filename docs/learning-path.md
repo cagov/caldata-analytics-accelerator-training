@@ -5,7 +5,7 @@ This guide lists all the content and resources to learn Power BI over the next 1
 
 ### Week 1: Intro to Power BI Desktop
 
-1. [Intro to Power BI Desktop]() (CalData course | ~5 hrs): This course introduces Power BI Desktop. It explores the Power Query Editor, a user-friendly interface for cleaning and preparing data for analysis. And concludes with a brief overview of the Report Editor to help you create a simple report.
+1. [Intro to Power BI Desktop](https://hub.innovation.ca.gov/data/introduction-power-bi-desktop-government/) (CalData course | ~5 hrs): This course introduces Power BI Desktop. It explores the Power Query Editor, a user-friendly interface for cleaning and preparing data for analysis. And concludes with a brief overview of the Report Editor to help you create a simple report.
 
 ---
 
@@ -74,9 +74,9 @@ Continue working on your project. Focus on developing your data model.
             <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/calendars-and-dates/">Calendars and dates</a></li>
             <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/advanced-date-functions/">Advanced date functions</a></li>
             <li><a href="https://www.wiseowl.co.uk/power-bi/exercises/dax/dax-queries/">DAX queries</a></li>
-            ```
-            Each exercise includes a solution. Another approach is to download the solution and work through it step-by-step, reengineering the process as you go.
-            ```
+
+            <p>Note: Each exercise includes a solution. Another approach is to download the solution and work through it step-by-step, reengineering the process as you go.</p>
+
         </ul>
     </li>
 </ul>
