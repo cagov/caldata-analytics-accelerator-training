@@ -36,7 +36,7 @@ Begin working on your department Power BI report. Focus on the following steps:
 
 ### Week 4: Data modeling
 
-1. [Data Modeling overview](https://docs.data.ca.gov/data-modeling/uEyO3M0RCuRMT1wHPxbk): Learn the basics of dimensional modeling to organize your data in a way that supports clear, scalable reporting.
+1. [Data Modeling overview](https://docs.superhuman.com/d/_dtq3MTDmO1O/Overview_suSBUh_6): Learn the basics of dimensional modeling to organize your data in a way that supports clear, scalable reporting.
 
 <details>
 <summary>Resources</summary>
@@ -54,7 +54,7 @@ Continue working on your project. Focus on developing your data model.
 
 ### Week 6: DAX
 
-1. [DAX overview](https://docs.data.ca.gov/dax/what-is-dax): Learn the basics of Data Analysis Expressions (DAX) for creating custom calculations in Power BI.
+1. [DAX overview](https://docs.superhuman.com/d/_d9IAbUXmYJ_/What-is-DAX_sufebh5x): Learn the basics of Data Analysis Expressions (DAX) for creating custom calculations in Power BI.
 
 <details>
 <summary>Resources</summary>
@@ -132,7 +132,7 @@ Continue working on your Power BI project.
 ---
 
 ### Week 10: Power BI Service
-1. [Power BI Service overview](https://docs.data.ca.gov/power-bi-service/QQmI9aCcsR38RNp7vXUr): Get familiar with core features and concepts of the Power BI Service.
+1. [Power BI Service overview](https://docs.superhuman.com/d/_diDhIwQ42DC/Overview_suO2BbE-): Get familiar with core features and concepts of the Power BI Service.
 
 2. Continue working on your project.
 
@@ -140,7 +140,7 @@ Continue working on your Power BI project.
 
 ### Week 11: Data security
 
-1. [Data security overview](https://docs.data.ca.gov/data-security-tipsheet/SdmkKOecuAVEL9aGip9L): Learn how Power BI handles underlying data and explore best practices for protecting or limiting access.
+1. [Data security overview](https://docs.superhuman.com/d/_d6fz5d8dq3g/Overview_suNHr0iW): Learn how Power BI handles underlying data and explore best practices for protecting or limiting access.
 
 2. Continue working on your project.
 
